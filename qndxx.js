@@ -11,9 +11,9 @@
  #青年大学习
  0 8 * * 2 https://ghproxy.com/https://raw.githubusercontent.com/RicardioMu/NoteJS/main/qndxx.js, tag=7MA出行, enabled=true
  [rewrite_local]
- https://h5.sxgqt.org.cn/h5sxapiv2/user/base url script-request-header https://ghproxy.com/https://raw.githubusercontent.com/RicardioMu/NoteJS/main/qndxx.js
+ https://www.sxgqt.org.cn/h5sxapiv2/user/base url script-request-header https://ghproxy.com/https://raw.githubusercontent.com/RicardioMu/NoteJS/main/qndxx.js
  [MITM]
- hostname = h5.sxgqt.org.cn
+ hostname = www.sxgqt.org.cn
 
  工作日志：
  1.0.0 完成学习的基本功能
